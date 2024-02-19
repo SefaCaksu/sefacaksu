@@ -20,11 +20,11 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&locale=en&layout=compact" alt="salihcantekin" /></p>
-
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1628864?s=200&v=4" alt="typescript" width="40" height="40"/> </a> 
 </p>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcantekin&show_icons=true&locale=en&layout=compact" alt="salihcantekin" /></p>
+
 
