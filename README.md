@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Sefa Çaksu</h1>
 <h3 align="center">No therapy,  just write code.</h3>
 
+<p>I define myself as a full stack developer. I use .net and Angular in my professional life. Besides, it is a great pleasure for me to learn and write about other technologies.</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
